@@ -1,0 +1,5 @@
+{
+  "name": "Assiduidade",
+  "description": "Sistema completo para controle de entrada/saída de torniquetes e alocação de operadoras em linhas de produção.",
+  "requestFramePermissions": []
+}
